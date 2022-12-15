@@ -2,7 +2,7 @@
 # PyCitySchools with Pandas
 
 ## Overview of Project
-For this module, we were instructed to assist Maria, the chief data scientist for a city school district. Data containing student school information was previously analyzed.  However, there is new data containing school budget information that had to be included in the original analysis. 
+For this module, we were instructed to assist Maria, the chief data scientist for a city school district. Data containing student and school information was previously analyzed.  However, there was new data containing school budget information that had to be included in the original analysis. 
 
 ## Purpose
 The purpose of this project is to rework part of the analysis using the new dataset.
